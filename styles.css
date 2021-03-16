@@ -217,6 +217,10 @@ form button:hover{
         margin: 10px;
         margin-bottom: 25px;
     }
+    .card img{
+        width: 100%;
+        height: 80%;
+    }
     .contact{
         padding: 15px;
     }
